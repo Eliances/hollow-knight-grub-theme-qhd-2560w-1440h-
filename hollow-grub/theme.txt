@@ -2,7 +2,7 @@ title-text: ""
 desktop-image: "wallpaper.png"
 #Boot menu
 + boot_menu {
-	left = 35%
+	left = 40%
 	top = 55%
 	width = 540
 	height = 500
@@ -24,7 +24,7 @@ desktop-image: "wallpaper.png"
 + image {
 	file = "logo.png"
 	top = 9%
-	left = 20%
+	left = 30%
 }
 
 #Timeout
