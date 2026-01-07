@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A theme for the bootloader GRUB based off hollow knight's main menu.</h4>
+<h4 align="center">A theme for the bootloader GRUB based off hollow knight's main menu. (Buuuut, this time configured in 2K resolution [2560x1440])</h4>
 
 <p align="center">
   <a href="#installation">Installation</a> •
